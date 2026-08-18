@@ -9,6 +9,9 @@ public class NewBehaviourScript : MonoBehaviour
 
     private float angle;
 
+
+    public float Angular { get { return aaa; } }
+
     void Start()
     {
         
